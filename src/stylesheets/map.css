@@ -1,0 +1,180 @@
+.graph-container {
+
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .graph-node {
+    position: absolute;
+    width: 100px;
+    height: 40px;
+    background-color: rgb(244, 221, 10);
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-weight: bolder;
+  }
+  
+  .graph-rectangle {
+    position: absolute;
+    width: 120px; 
+    height: 20px; 
+    background-color: #3498db;
+  }
+  
+  .graph-link {
+    position: absolute;
+    width: 10px; 
+    height: 2px; 
+    background-color: #3498db;
+  }
+  
+  .graph-node.source {
+    background-color: rgb(0, 255, 208);
+  }
+  
+  .graph-node.destination {
+    background-color: red;
+  }
+  
+  .shortest-path {
+    background-color: lightblue;
+  }
+  
+  #Thane {
+    top: 50px;
+    left: 50px;
+  }
+  
+  #Vikhroli {
+  
+    top: 170px;
+    left: 180px;
+  }
+  
+  
+  #Ghatkopar{
+  
+    top: 250px;
+    left: 350px;
+  }
+  
+  
+  #Kurla {
+    top: 300px;
+    left: 550px;
+  }
+  
+  #Dadar {
+  
+    top: 400px;
+    left: 1000px;
+  }
+  
+  
+  #Airoli {
+  
+    top: 50px;
+    left: 250px;
+  }
+  
+  #Ghansoli {
+  
+    top: 50px;
+    left: 450px;
+  }
+  
+  #Turbhe {
+  
+    top: 50px;
+    left: 650px;
+  }
+  
+  #Vashi {
+  
+    top: 200px;
+    left: 750px;
+  }
+  
+  #Juinagar{
+  
+    top: 50px;
+    left: 900px;
+  }
+  
+  #Belapur{
+  
+    top: 50px;
+    left: 1100px;
+  }
+  
+  #Panvel{
+  
+    top: 50px;
+    left: 1300px;
+  }
+  
+  #Borivali {
+  
+    top: 650px;
+    left: 50px;
+  }
+  
+  #Andheri {
+  
+    top: 650px;
+    left: 300px;
+  }
+  
+  #Bandra {
+  
+    top: 650px;
+    left: 550px;
+  }
+  
+  #Mahim {
+  
+    top: 500px;
+    left: 750px;
+  }
+  
+  #Vadala{
+  
+    top: 260px;
+    left: 1000px;
+  }
+  
+  #Masjid{
+  
+    top: 330px;
+    left: 1300px;
+  }
+  
+  #CSMT{
+  
+    top: 330px;
+    left: 1500px;
+  }
+  
+  #Churchgate{
+  
+    top: 500px;
+    left: 1500px;
+  
+  }
+  
+  #Marine{
+  
+    top: 500px;
+    left: 1300px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
