@@ -3,7 +3,7 @@ import { GoogleAuthProvider, getAuth } from "firebase/auth"; // modules for user
 import { getFirestore } from "firebase/firestore";  // module for database
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCVWFUdwr7ILf5LWmQZDT_5bUr1lAUi-ks",
+  apiKey: "?",
   authDomain: "fir-database-6f019.firebaseapp.com",
   projectId: "fir-database-6f019",
   storageBucket: "fir-database-6f019.appspot.com",
